@@ -1,10 +1,10 @@
-﻿<div align="center">
+<div align="center">
   <img src="./assets/profile-banner.svg" alt="Sai Aravind Sannidhanam profile banner" width="100%" />
 </div>
 
 <div align="center">
   <h1>Hi, I'm Sai Aravind Sannidhanam</h1>
-  <h3>Building grounded, cost-efficient, multimodal AI systems from research to production</h3>
+  <h3>GenAI engineer building grounded RAG, LLM reliability, multimodal AI, and product-focused ML systems</h3>
 
   <p>
     <a href="mailto:aravindsanni@gmail.com">
@@ -16,26 +16,33 @@
     <a href="https://github.com/Aravind22012005">
       <img src="https://img.shields.io/badge/GitHub-Aravind22012005-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
     </a>
-  </p>
-
-  
-  <p>
     <a href="https://portfolio-site-pink-six.vercel.app">
       <img src="https://img.shields.io/badge/Portfolio-Live%20Cyberpunk%20Site-06b6d4?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio Website" />
     </a>
   </p>
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=1000&color=67E8F9&center=true&vCenter=true&width=900&lines=Generative+AI+Research+Intern+%40+ProcurAI;Co-Founder+%26+CTO+%40+Zyveo+AI;AI+%26+Robotics+Undergrad+%40+VIT+Chennai;RAG+%7C+LLM+Reliability+%7C+Multimodal+AI+%7C+Diffusion+Models" alt="Typing intro" />
+
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=1000&color=67E8F9&center=true&vCenter=true&width=900&lines=Generative+AI+Research+Intern+%40+ProcurAI;Co-Founder+%26+CTO+%40+Zyveo+AI;AI+%26+Robotics+Undergrad+%40+VIT+Chennai;RAG+%7C+LLM+Reliability+%7C+Multimodal+AI+%7C+Forecasting+Systems" alt="Typing intro" />
 </div>
 
-## About Me
+## Signal
 
-- B.Tech in Computer Science and Engineering (AI & Robotics) at VIT Chennai with a CGPA of `8.41/10`.
-- Generative AI Research Intern at `ProcurAI`, building citation-grounded legal AI systems and hallucination mitigation layers for enterprise workflows.
-- Co-founded `Zyveo AI`, where I led multimodal content generation pipelines across scripts, captions, and thumbnails.
+- Generative AI Research Intern at `ProcurAI`, building citation-grounded legal AI systems and hallucination mitigation layers.
+- Co-founded `Zyveo AI`, where I led multimodal content-generation pipelines across scripts, captions, and thumbnails.
 - Co-authored `CRISP`, a prompt-aware routing framework that reduced image-generation inference cost by up to `35%`.
-- Winner of the `Samsung PRISM Spatial Hackathon 2025` and `Smart India Hackathon finalist` in both 2024 and 2025.
+- Winner of the `Samsung PRISM Spatial Hackathon 2025` and a `Smart India Hackathon` finalist in both 2024 and 2025.
+- B.Tech in Computer Science and Engineering (AI & Robotics) at `VIT Chennai`, CGPA `8.41/10`.
 
-> I enjoy building AI products that are not just impressive in demos, but reliable, efficient, and genuinely useful in production.
+> I like AI systems that can survive outside the demo: grounded answers, measurable reliability, and product decisions that still look good under pressure.
+
+## Start Here
+
+| Best Entry Point | Why It Matters |
+| --- | --- |
+| [Live Portfolio](https://portfolio-site-pink-six.vercel.app) | The cleanest overview of my work, story, and design style in one place |
+| [NoDelulu AI](https://github.com/Aravind22012005/NoDeluluAi) | RAG + reinforcement learning guardrails for hallucination-aware LLM answers |
+| [SpendScope AI](https://github.com/Aravind22012005/spendscope-ai) | Forecasting and anomaly intelligence dashboard for top-300 customer spending behavior |
+| [semantic-search-cache](https://github.com/Aravind22012005/semantic-search-cache) | Lightweight semantic retrieval cache for repeated search and lookup workloads |
+| [VisionX](https://github.com/Aravind22012005/VisionX) | Multimodal text-to-video storytelling pipeline with contextual visual retrieval |
 
 ## What I Build
 
@@ -46,28 +53,28 @@
 | Multimodal AI | Text-to-video flows, image generation routing, thumbnail pipelines, creativity scoring |
 | Applied Research | Diffusion models, CLIP-based evaluation, ASR robustness, RL-based output control |
 
-## Highlight Reel
+## Experience Highlights
 
 | Milestone | Impact |
 | --- | --- |
 | ProcurAI | Built an LLM-powered clause analysis system for government tenders and helped cut ungrounded outputs by `40%+` |
 | CADS, VIT Chennai | Co-authored `CRISP`, benchmarking generative models and optimizing routing for lower-cost creative generation |
 | Zyveo AI | Shipped a multimodal content platform across `3+` verticals and drove image generation to around `$0.06` per output |
-| Delta SF Residency + PW Battleground | Selected into a competitive startup residency and ranked among the top `20` founders from `1,000+` applicants |
+| SpendScope AI | Built a forecasting and anomaly dashboard across `300` ranked customers with a `28-day` forward view |
 
 ## Featured Projects
 
 | Project | Stack | Why It Stands Out |
 | --- | --- | --- |
-| [NoDelulu AI](https://github.com/Aravind22012005/NoDeluluAi) | Python, PPO, OpenAI API, RAG, TF-IDF, SerpAPI | Reinforcement learning-based control layer that monitors LLM responses and reduced hallucination by `30%+` |
+| [NoDelulu AI](https://github.com/Aravind22012005/NoDeluluAi) | Python, PPO, OpenAI API, RAG, TF-IDF, SerpAPI | Reinforcement learning-based control layer that monitors LLM responses and reduces low-confidence generations |
+| [SpendScope AI](https://github.com/Aravind22012005/spendscope-ai) | Next.js, TypeScript, Python, Recharts | Portfolio forecasting and anomaly watch dashboard with cohort drill-downs and precomputed JSON feeds |
+| [semantic-search-cache](https://github.com/Aravind22012005/semantic-search-cache) | FastAPI, Embeddings, Vector Search, Cache Layer | Semantic cache for repeated query similarity matching and faster retrieval paths |
 | [VisionX](https://github.com/Aravind22012005/VisionX) | GPT-4, BeautifulSoup, Video APIs | Turns text prompts into coherent video narratives by scraping visuals and stitching them into story-driven outputs |
-| Near/Far-Field Audio Analysis | TensorFlow, Keras, SciPy, STFT, RIR | Built an ASR robustness pipeline that won `Samsung PRISM Hackathon 2025` |
-| Road Extraction from Satellite Imagery | OpenCV, Edge Detection | Computer vision pipeline for detecting emerging road structures from satellite imagery, finalist at `SIH 2024` |
 
 ## Tech Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,c,cpp,java,javascript,tensorflow,pytorch,aws,firebase,git" alt="Core tools" />
+  <img src="https://skillicons.dev/icons?i=python,c,cpp,java,javascript,typescript,tensorflow,pytorch,aws,firebase,git,nextjs" alt="Core tools" />
 </div>
 
 <div align="center">
@@ -90,5 +97,5 @@
 
 - Email: `aravindsanni@gmail.com`
 - LinkedIn: [linkedin.com/in/aravindsanni](https://www.linkedin.com/in/aravindsanni)
-- Open to collaborations in `Generative AI`, `RAG`, `LLM reliability`, `multimodal AI`, and research-driven product building
-
+- Portfolio: [portfolio-site-pink-six.vercel.app](https://portfolio-site-pink-six.vercel.app)
+- Open to collaborations in `Generative AI`, `RAG`, `LLM reliability`, `multimodal AI`, `forecasting`, and research-driven product building
