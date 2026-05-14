@@ -16,7 +16,6 @@
     <a href="https://github.com/Aravind22012005">
       <img src="https://img.shields.io/badge/GitHub-Aravind22012005-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
     </a>
-    <img src="https://komarev.com/ghpvc/?username=Aravind22012005&style=for-the-badge&color=22c55e" alt="Profile views" />
   </p>
 
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=1000&color=67E8F9&center=true&vCenter=true&width=900&lines=Generative+AI+Research+Intern+%40+ProcurAI;Co-Founder+%26+CTO+%40+Zyveo+AI;AI+%26+Robotics+Undergrad+%40+VIT+Chennai;RAG+%7C+LLM+Reliability+%7C+Multimodal+AI+%7C+Diffusion+Models" alt="Typing intro" />
@@ -76,11 +75,6 @@
 </div>
 
 ## GitHub Pulse
-
-<div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Aravind22012005&show_icons=true&rank_icon=github&hide_border=true&bg_color=0d1117&title_color=ffb347&text_color=f8fafc&icon_color=67e8f9" alt="GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aravind22012005&layout=compact&hide_border=true&bg_color=0d1117&title_color=ffb347&text_color=f8fafc" alt="Top languages" />
-</div>
 
 <div align="center">
   <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=Aravind22012005&bg_color=0d1117&color=ffb347&line=67e8f9&point=f8fafc&area=true&hide_border=true" alt="Activity graph" />
