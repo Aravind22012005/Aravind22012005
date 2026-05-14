@@ -1,4 +1,4 @@
-<div align="center">
+﻿<div align="center">
   <img src="./assets/profile-banner.svg" alt="Sai Aravind Sannidhanam profile banner" width="100%" />
 </div>
 
@@ -18,7 +18,13 @@
     </a>
   </p>
 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=1000&color=67E8F9&center=true&vCenter=true&width=900&lines=Generative+AI+Research+Intern+%40+ProcurAI;Co-Founder+%26+CTO+%40+Zyveo+AI;AI+%26+Robotics+Undergrad+%40+VIT+Chennai;RAG+%7C+LLM+Reliability+%7C+Multimodal+AI+%7C+Diffusion+Models" alt="Typing intro" />
+  
+  <p>
+    <a href="https://portfolio-site-pink-six.vercel.app">
+      <img src="https://img.shields.io/badge/Portfolio-Live%20Cyberpunk%20Site-06b6d4?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio Website" />
+    </a>
+  </p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=1000&color=67E8F9&center=true&vCenter=true&width=900&lines=Generative+AI+Research+Intern+%40+ProcurAI;Co-Founder+%26+CTO+%40+Zyveo+AI;AI+%26+Robotics+Undergrad+%40+VIT+Chennai;RAG+%7C+LLM+Reliability+%7C+Multimodal+AI+%7C+Diffusion+Models" alt="Typing intro" />
 </div>
 
 ## About Me
@@ -85,3 +91,4 @@
 - Email: `aravindsanni@gmail.com`
 - LinkedIn: [linkedin.com/in/aravindsanni](https://www.linkedin.com/in/aravindsanni)
 - Open to collaborations in `Generative AI`, `RAG`, `LLM reliability`, `multimodal AI`, and research-driven product building
+
