@@ -1,0 +1,71 @@
+<svg width="1280" height="420" viewBox="0 0 1280 420" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bgGradient" x1="0" y1="0" x2="1280" y2="420" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#07111F"/>
+      <stop offset="0.55" stop-color="#0E1B2F"/>
+      <stop offset="1" stop-color="#13263E"/>
+    </linearGradient>
+    <linearGradient id="accentGradient" x1="250" y1="70" x2="1010" y2="330" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#67E8F9"/>
+      <stop offset="0.5" stop-color="#38BDF8"/>
+      <stop offset="1" stop-color="#FDBA74"/>
+    </linearGradient>
+    <radialGradient id="glowLeft" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(206 88) rotate(59.634) scale(214.701 311.613)">
+      <stop stop-color="#22D3EE" stop-opacity="0.45"/>
+      <stop offset="1" stop-color="#22D3EE" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="glowRight" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(1054 324) rotate(-149.203) scale(231.555 301.529)">
+      <stop stop-color="#FDBA74" stop-opacity="0.36"/>
+      <stop offset="1" stop-color="#FDBA74" stop-opacity="0"/>
+    </radialGradient>
+    <filter id="softBlur" x="-80" y="-80" width="1440" height="580" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+      <feGaussianBlur stdDeviation="24"/>
+    </filter>
+    <pattern id="gridPattern" x="0" y="0" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M32 0H0V32" stroke="#1E314B" stroke-width="1"/>
+    </pattern>
+  </defs>
+
+  <rect width="1280" height="420" rx="28" fill="url(#bgGradient)"/>
+  <rect width="1280" height="420" rx="28" fill="url(#gridPattern)" opacity="0.42"/>
+
+  <g filter="url(#softBlur)">
+    <circle cx="210" cy="92" r="96" fill="url(#glowLeft)"/>
+    <circle cx="1092" cy="326" r="106" fill="url(#glowRight)"/>
+  </g>
+
+  <path d="M64 315C150 263 204 231 282 218C374 203 457 233 522 212C598 188 625 118 707 105C797 91 872 147 958 142C1047 136 1111 82 1216 50" stroke="url(#accentGradient)" stroke-width="5" stroke-linecap="round" opacity="0.92"/>
+  <path d="M816 109H1180" stroke="#26405F" stroke-width="3" stroke-linecap="round"/>
+  <path d="M846 141H1138" stroke="#223652" stroke-width="3" stroke-linecap="round"/>
+  <path d="M888 173H1096" stroke="#223652" stroke-width="3" stroke-linecap="round"/>
+
+  <rect x="792" y="222" width="390" height="116" rx="20" fill="#08101B" fill-opacity="0.74" stroke="#223652"/>
+  <circle cx="828" cy="258" r="8" fill="#67E8F9"/>
+  <circle cx="828" cy="293" r="8" fill="#FDBA74"/>
+  <circle cx="828" cy="328" r="8" fill="#A3E635"/>
+  <path d="M854 258H1129" stroke="#38506D" stroke-width="4" stroke-linecap="round"/>
+  <path d="M854 293H1080" stroke="#38506D" stroke-width="4" stroke-linecap="round"/>
+  <path d="M854 328H1150" stroke="#38506D" stroke-width="4" stroke-linecap="round"/>
+
+  <rect x="66" y="62" width="525" height="296" rx="28" fill="#08101B" fill-opacity="0.48" stroke="#203049"/>
+  <text x="100" y="128" fill="#8FD4FF" font-family="'Segoe UI', Arial, sans-serif" font-size="18" font-weight="700" letter-spacing="3">SAI ARAVIND SANNIDHANAM</text>
+  <text x="100" y="190" fill="#F8FAFC" font-family="'Segoe UI', Arial, sans-serif" font-size="42" font-weight="700">Generative AI Engineer</text>
+  <text x="100" y="236" fill="#E2E8F0" font-family="'Segoe UI', Arial, sans-serif" font-size="22" font-weight="400">RAG, LLM Reliability, Multimodal Systems</text>
+  <text x="100" y="270" fill="#E2E8F0" font-family="'Segoe UI', Arial, sans-serif" font-size="22" font-weight="400">AI &amp; Robotics @ VIT Chennai</text>
+
+  <rect x="100" y="300" width="128" height="34" rx="17" fill="#0C2237" stroke="#2A4967"/>
+  <text x="128" y="322" fill="#67E8F9" font-family="'Segoe UI', Arial, sans-serif" font-size="16" font-weight="700">RESEARCH</text>
+
+  <rect x="240" y="300" width="110" height="34" rx="17" fill="#0C2237" stroke="#2A4967"/>
+  <text x="270" y="322" fill="#FDBA74" font-family="'Segoe UI', Arial, sans-serif" font-size="16" font-weight="700">STARTUPS</text>
+
+  <rect x="362" y="300" width="132" height="34" rx="17" fill="#0C2237" stroke="#2A4967"/>
+  <text x="390" y="322" fill="#A3E635" font-family="'Segoe UI', Arial, sans-serif" font-size="16" font-weight="700">HACKATHONS</text>
+
+  <circle cx="1146" cy="92" r="40" fill="#08101B" fill-opacity="0.55" stroke="#2A4967"/>
+  <path d="M1128 92H1164" stroke="#67E8F9" stroke-width="4" stroke-linecap="round"/>
+  <path d="M1146 74V110" stroke="#67E8F9" stroke-width="4" stroke-linecap="round"/>
+  <circle cx="1060" cy="82" r="10" fill="#FDBA74" opacity="0.95"/>
+  <circle cx="1018" cy="118" r="7" fill="#67E8F9" opacity="0.95"/>
+  <circle cx="1195" cy="132" r="8" fill="#A3E635" opacity="0.95"/>
+</svg>
